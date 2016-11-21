@@ -4,4 +4,5 @@ body {
 
 div.page {
     border: 1px solid gray;
+    padding: 10px;
 }
